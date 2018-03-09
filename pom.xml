@@ -4,11 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>fr.thiiozz</groupId>
-    <artifactId>sprintlin</artifactId>
+    <artifactId>functional-spring-kotlin-reactive-mongo-api</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>spring-kotlin-reactive-mongo-api</name>
+    <name>functional-spring-kotlin-reactive-mongo-api</name>
     <description>Spring Boot kotlin mongo reactive functional API</description>
 
     <parent>
